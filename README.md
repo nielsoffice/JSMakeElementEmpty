@@ -10,9 +10,7 @@ JavaScript Make Element or div empty and insert new data !
 ```
 
 ```JS
-// Make element or div empty the insert 
-<script>
-
+ // Make element or div empty the insert !
  let slides = ['Second Slide data'];
 
  let id = document.getElementById('container');
@@ -24,6 +22,4 @@ JavaScript Make Element or div empty and insert new data !
    id.innerHTML = slides;
  
  }); 
-
-</script> 
 ```
